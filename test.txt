@@ -1,4 +1,0 @@
-lab1-handin.tar.gz
-lab2-handin.tar.gz
-README.md
-test.txt
